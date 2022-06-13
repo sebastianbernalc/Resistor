@@ -4,8 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#CDBC741D"
-    android:backgroundTint="#BAA870"
     android:backgroundTintMode="src_over"
     android:foregroundGravity="left|center_vertical|center|right|center_horizontal"
     android:orientation="vertical"
